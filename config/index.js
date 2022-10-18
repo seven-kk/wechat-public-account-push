@@ -5,7 +5,7 @@ export const config = {
     // 公众号appSecret
     appSecret: "718aaddfbb3a5a4019478c4acfeb79ee",
     // 模板消息id
-    templateId: "2HgQMpI8X_xcBCMuRF-YLDc15SZhHQSdNv_qZnDBWMo",
+    templateId: "4Zzo60RO7H5zi6A925WwfFXK9pc1_11hY9sDF03lTrs",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
     user: ["o-W2p6LYK1p42tt_-DezLMqpjTmo"],
      
@@ -15,7 +15,7 @@ export const config = {
     province: "江西",
     // 所在城市
     city: "南昌",
-    
+   
     // 在一起的日子，格式同上
     loveDate: "2020-06-22",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r

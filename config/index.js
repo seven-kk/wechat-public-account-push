@@ -10,9 +10,9 @@ export const config = {
     user: ["o-W2p6LYK1p42tt_-DezLMqpjTmo"],
      
     // 信息配置
-    ewai: "   ",
+    ewai: " 江西 ",
     // 所在省份
-    province: "广西",
+    province: "南昌",
     // 所在城市
     city: "桂林",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
@@ -21,7 +21,7 @@ export const config = {
       {"name": "哥哥", "year": "1996", "date": "01-07", "type": 'new'},
     ],
     // 在一起的日子，格式同上
-    loveDate: "",
+    loveDate: "2020-06-20",
     // 结婚纪念日
     
     }

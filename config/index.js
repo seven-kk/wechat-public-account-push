@@ -21,8 +21,7 @@ export const config = {
       {"name": "哥哥", "year": "1996", "date": "01-07", "type": 'new'},
     ],
     // 在一起的日子，格式同上
-    loveDate: "2020-06-20",
-    // 结婚纪念日
+    loveDate: "2020-6-20",
     
     }
 

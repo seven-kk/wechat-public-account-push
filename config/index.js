@@ -10,18 +10,18 @@ export const config = {
     user: ["o-W2p6LYK1p42tt_-DezLMqpjTmo"],
      
     // 信息配置
-    ewai: " 江西 ",
+    ewai: "  ",
     // 所在省份
-    province: "南昌",
+    province: "江西",
     // 所在城市
-    city: "桂林",
+    city: "南昌",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
-      {"name": "曾曾", "year": "1998", "date": "06-02", "type": 'new'},
+      {"name": "嘻嘻", "year": "2003", "date": "06-20", "type": 'new'},
       {"name": "哥哥", "year": "1996", "date": "01-07", "type": 'new'},
     ],
     // 在一起的日子，格式同上
-    loveDate: "2020-6-20",
+    loveDate: "2020-06-22",
     
     }
 

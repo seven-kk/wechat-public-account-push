@@ -15,13 +15,14 @@ export const config = {
     province: "江西",
     // 所在城市
     city: "南昌",
-    // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
-    birthdays: [
-      {"name": "嘻嘻", "year": "2003", "date": "06-20", "type": 'new'},
-      {"name": "哥哥", "year": "1996", "date": "01-07", "type": 'new'},
-    ],
+    
     // 在一起的日子，格式同上
     loveDate: "2020-06-22",
+    // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
+    birthdays: [
+      {"name": "希希", "year": "2003", "date": "06-20", "type": 'new'},
+      {"name": "哥哥", "year": "1996", "date": "01-07", "type": 'new'},
+    ],
     
     }
 
@@ -31,8 +32,7 @@ export const config = {
 //最低气温: {{min_temperature.DATA}}  
 //最高气温: {{max_temperature.DATA}}  
 //今天是我们恋爱的第{{love_day.DATA}}天
-// 
- //{{birthday_message.DATA}}
+//{{birthday_message.DATA}}
 
 // {{note_en.DATA}}  
 // {{note_ch.DATA}}
